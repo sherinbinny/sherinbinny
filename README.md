@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](https://github.com/sherinbinny/sherinbinny/blob/main/Banner.png)
 
 # 👋 Hi, I'm Sherin Binny  
 
@@ -18,29 +18,31 @@
 
 ## 🚀 Selected Projects  
 
+- **[Insights](https://insights.nationwideutilities.com)** – 
+- **[Nationwide Utilities](https://www.nationwideutilities.com/)** –  
+- **[Pose Wimbledon](https://posewimbledon.co.uk/)** – Booking and engagement website for a salon, enhancing client experience.  
+- **[iJob](https://ijob.energyfalcon.com/)** – Task management solution with real-time tracking, filtering, and workflow automation.
 - **[BetterDeal](#)** – Affiliate e-commerce platform with product discovery, order tracking, and deal discussions.  
-- **[Call Dashboard](#)** – Real-time call insights and visualization tool improving operational efficiency.  
-- **[Pose Wimbledon](#)** – Booking and engagement website for a salon, enhancing client experience.  
-- **[iJob](#)** – Task management solution with real-time tracking, filtering, and workflow automation.  
+- **[Call Dashboard](#)** – Real-time call insights and visualization tool improving operational efficiency.
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sherin-benny&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherin-benny&layout=compact&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sherinbinny&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherinbinny&layout=compact&theme=default)  
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sherin-benny&theme=flat&no-frame=true&margin-w=10)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=sherinbinny&theme=flat&no-frame=true&margin-w=10)  
 
 ---
 
 ## 📈 Contribution Graph  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sherin-benny&theme=github-light)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sherinbinny&theme=github-light)  
 
 ---
 
