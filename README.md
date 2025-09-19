@@ -18,10 +18,12 @@
 
 ## 🚀 Selected Projects  
 
-- **[Insights](https://insights.nationwideutilities.com)** – 
-- **[Nationwide Utilities](https://www.nationwideutilities.com/)** –  
+- **[Insights](https://insights.nationwideutilities.com)** – Developed data-driven dashboards and reporting tools to improve visibility into business performance and decision-making.
+- **[Nationwide Utilities](https://www.nationwideutilities.com/)** – Corporate energy consultancy website, developed in **WordPress** and **HubSpot**, with a focus on usability, performance, and CMS-driven content.
 - **[Pose Wimbledon](https://posewimbledon.co.uk/)** – Booking and engagement website for a salon, enhancing client experience.  
 - **[iJob](https://ijob.energyfalcon.com/)** – Task management solution with real-time tracking, filtering, and workflow automation.
+- **[Social Web Strategy](https://socialwebstrategy.com/)** – Built with **WordPress** and **Elementor**, delivering a polished and responsive design for an ad agency.  
+- **[My Utility Genius](https://www.mugc.co.uk/)** – Enhanced and managed the commercial website and broker platform UI, ensuring better user experience and functionality.
 - **[BetterDeal](#)** – Affiliate e-commerce platform with product discovery, order tracking, and deal discussions.  
 - **[Call Dashboard](#)** – Real-time call insights and visualization tool improving operational efficiency.
 
