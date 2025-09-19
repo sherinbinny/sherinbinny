@@ -1,15 +1,13 @@
-![Banner](https://github.com/sherinbinny/sherinbinny/blob/main/Banner.png)
-
 # 👋 Hi, I'm Sherin Binny  
 
-**Front-End Engineer | React • Vue • Angular • TypeScript**  
+**Front-End Engineer | React • Vue • JavaScript • TypeScript • WordPress**  
 📍 London, UK | 6+ years of experience in building scalable, performant, and accessible web applications  
 
 ---
 
 ## 💻 Technical Skills  
 
-- **Frontend:** React.js, Vue.js, Angular, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS  
+- **Frontend:** React.js, Vue.js, Angular, TypeScript, JavaScript (ES6+), jQuery, HTML5, CSS3, SCSS  
 - **Backend & Databases:** Node.js, SQL, PHP  
 - **Tools & Platforms:** Git, Figma, WordPress, Bootstrap, REST APIs  
 - **Other:** UI/UX principles, WCAG accessibility standards, performance optimization  
