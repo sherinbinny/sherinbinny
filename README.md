@@ -80,5 +80,4 @@
 
 ## 📫 Let’s Connect  
 
-- LinkedIn: [linkedin.com/in/sherin-binny](https://linkedin.com/in/sherin-binny)  
-- Email: sherinbinny@gmail.com  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sherin.binny) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherin-binny) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sherinbinny@gmail.com) 
